@@ -22,8 +22,6 @@ A **Bank Management System** built using Java and Swing that allows users to per
 2. **Open the project in your preferred IDE** (Eclipse, IntelliJ, VS Code, etc.).
 3. **Run the `Main.java` file** to launch the application.
 
-## 📸 Screenshots (Optional)
-(Add images of your project interface here)
 
 ## 📜 License
 This project is **open-source** and available for use under the MIT License.
